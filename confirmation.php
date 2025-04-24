@@ -10,7 +10,7 @@
     <div class="card shadow">
       <div class="card-header bg-success text-white">
         <h3>Registration Confirmation</h3>
-      </div>
+      </div> 
       <div class="card-body">
         <p><strong>First Name:</strong> <?= htmlspecialchars($_GET['firstname']) ?></p>
         <p><strong>Last Name:</strong> <?= htmlspecialchars($_GET['lastname']) ?></p>
